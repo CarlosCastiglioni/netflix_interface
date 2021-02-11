@@ -11,7 +11,7 @@
 /* Base Elements */
 body{
   background: var(--black);
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Arial';
   color: white
 }
 
@@ -81,4 +81,14 @@ header nav a:hover{
 
 .buttons i{
   margin-right: 8px;
+}
+
+.movie-box{
+  height: 100%;
+  width: 100%;
+  display: block;
+}
+
+.swipe-movies{
+  margin-top: 5px;
 }
